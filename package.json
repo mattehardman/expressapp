@@ -9,9 +9,15 @@
   "dependencies" : {
     "express" : "*",
     "morgan" : "*",
+    "method-override" : "*",
+    "cookie-parser" : "*",
+    "express-session" : "*",
+    "body-parser" : "*",
     "jade" : "*",
     "nib" : "*",
-    "stylus" : "*"
+    "stylus" : "*",
+    "mongodb" : "*",
+    "monk" : "*"
   },
   "repository": {
     "type": "git",
