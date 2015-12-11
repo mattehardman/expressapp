@@ -1,0 +1,30 @@
+{
+  "name": "expressapp",
+  "version": "0.0.1",
+  "description": "Express app using Jade and Stylus",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies" : {
+    "express" : "*",
+    "morgan" : "*",
+    "jade" : "*",
+    "nib" : "*",
+    "stylus" : "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattehardman/expressapp.git"
+  },
+  "keywords": [
+    "express",
+    "app"
+  ],
+  "author": "Matt Hardman",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/mattehardman/expressapp/issues"
+  },
+  "homepage": "https://github.com/mattehardman/expressapp#readme"
+}
